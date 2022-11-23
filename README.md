@@ -80,7 +80,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-
+![Uttam Stat's](https://github-readme-stats.vercel.app/api?username=Uttamdp10&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttamdp10&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttamdp10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttamdp10&layout=compact&theme=vision-friendly-dark)](https://github.com/Uttamdp10/github-readme-stats)
+
+
