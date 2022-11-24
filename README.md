@@ -1,17 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Full Stack Development...
-- 🌱 I’m currently learning ReactJS and Node/ExpressJs
-- 👯 I’m looking to collaborate on Open Source Projects and Hackathons...
-- 💬 Ask me about DSA,Competitive Programming and Web Development...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Uttaammmmmm..............
--->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -34,7 +23,7 @@ Here are some ideas to get you started:
      
  <img src="https://komarev.com/ghpvc/?username=Uttamdp10&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hii There....
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
