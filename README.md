@@ -80,7 +80,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![Uttam Stat's](https://github-readme-stats.vercel.app/api?username=Uttamdp10&show_icons=true&theme=dark)
@@ -90,4 +90,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttamdp10&layout=compact&theme=vision-friendly-dark)](https://github.com/Uttamdp10/github-readme-stats)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
