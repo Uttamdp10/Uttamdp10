@@ -21,13 +21,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<div align = "center">
- <img src="https://komarev.com/ghpvc/?username=Uttamdp10&style=flat-square&color=blue" alt=""/>
-</div>
-<div align = "center"
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Uttamdp10/count.svg" />
+</p>
 
      
- <img src="https://komarev.com/ghpvc/?username=Uttamdp10&style=flat-square&color=blue" alt=""/>
 
 </div>
 <div align="center">
