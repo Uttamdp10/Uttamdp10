@@ -103,9 +103,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Uttam's Graph](https://activity-graph.herokuapp.com/graph?username=Uttamdp10&area=true&hide_border=true&theme=dracula)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![Uttam Stat's](https://github-readme-stats.vercel.app/api?username=Uttamdp10&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttamdp10&theme=dark&background=000000)](https://git.io/streak-stats)
 
+ <p align="center">
+          <a href="https://github.com/Uttamdp10/">
+          <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Uttamdp10&show_icons=true&theme=dark" />
+          <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Uttamdp10&theme=dark&background=000000)](https://git.io/streak-stats)" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttamdp10&layout=compact&theme=vision-friendly-dark)](https://github.com/Uttamdp10/github-readme-stats)
