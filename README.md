@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Uttam+Patel..&hearts;++;FullStack+Web+Developer,;Engineering+Student...,;Competitive+Programmer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hii,+there+I'm+Uttam+Patel..;++;I'm+a+FullStack+Web+Developer;Engineering+Student...;Competitive+Programmer...;Active+Learner/Researcher...;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <p align="center">
@@ -25,10 +25,7 @@
 
      
  <img src="https://komarev.com/ghpvc/?username=Uttamdp10&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hii There....
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 </div>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
