@@ -45,7 +45,7 @@
                                                                                                                          
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
+ <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
