@@ -108,8 +108,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <p align="center">
           <a href="https://github.com/Uttamdp10/">
           <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Uttamdp10&show_icons=true&theme=dark" />
-          <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Uttamdp10&theme=dark&background=000000)](https://git.io/streak-stats)" />
-
+          <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Uttamdp10&theme=dark&background=000000)](https://git.io/streak-stats)" />(https://github-readme-activity-graph.cyclic.app/graph?username=Uttamdp10)](https://github.com/Uttamdp10/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttamdp10&layout=compact&theme=vision-friendly-dark)](https://github.com/Uttamdp10/github-readme-stats)
 
