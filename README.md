@@ -2,10 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hii,+there+I'm+Uttam+Patel..;++;I'm+a+FullStack+Web+Developer;Engineering+Student...;Competitive+Programmer...;Active+Learner/Researcher...;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-   
-</p>
+
 
 
 <div id="badges" align = "center">
