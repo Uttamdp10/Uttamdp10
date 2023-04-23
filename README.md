@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/uttam-patel-0a4b48211">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/uttamdp_10/">
+  <a href="">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
   </a>
   <a href="mailto:uttampatel.6048@gmail.com">
